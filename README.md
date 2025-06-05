@@ -1,7 +1,7 @@
 <div>
   <img align="right" height="430em" src="./github.gif"/>
   <h1 align="left"> I'm Pedro de Jesus Covre</h1>
-  <img align="right" width="358"src=https://media1.tenor.com/m/gNWAwcobzxsAAAAC/luffy-rindo-muito-luffy.gif>
+  <img align="right" width="358"src=https://tenor.com/view/batman-thinking-gif-18107621495886085895>
 </div>
 
 I’m currently learning **React**
