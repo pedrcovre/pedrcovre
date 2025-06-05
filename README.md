@@ -1,10 +1,10 @@
 <div>
   <img align="right" height="430em" src="./github.gif"/>
-  <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Pedro  </h1>
+  <h1 align="left"> I'm Pedro  </h1>
   <img align="right" width="358"src=https://media1.tenor.com/m/gNWAwcobzxsAAAAC/luffy-rindo-muito-luffy.gif>
 </div>
 
-- 🌱 I’m currently learning **React**
+I’m currently learning **React**
 
 <p><img align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=pedrocovre22&show_icons=true&theme=react&locale=en&layout=compact&hide_border=true" alt="pedrocovre22" /></p>
 
