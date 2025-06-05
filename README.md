@@ -1,6 +1,6 @@
 <div>
   <img align="right" height="430em" src="./github.gif"/>
-  <h1 align="left"> I'm Pedro  </h1>
+  <h1 align="left"> I'm Pedro de Jesus Covre</h1>
   <img align="right" width="358"src=https://media1.tenor.com/m/gNWAwcobzxsAAAAC/luffy-rindo-muito-luffy.gif>
 </div>
 
