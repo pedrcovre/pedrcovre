@@ -6,7 +6,7 @@
 
 I’m currently learning **React**
 
-<p><img align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=pedrocovre22&show_icons=true&theme=react&locale=en&layout=compact&hide_border=true" alt="pedrocovre22" /></p>
+<p><img align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=pedrcovre&show_icons=true&theme=react&locale=en&layout=compact&hide_border=true" alt="pedrcovre2" /></p>
 
 
 <h3 align="left">Languages and Tools:</h3>
