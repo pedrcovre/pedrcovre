@@ -4,7 +4,7 @@
   <img align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7b282ec6-fcc3-4600-90a7-2c3140549f58" width="286">
 </div>
 
-I’m currently learning **React**
+Currently learning **React**
 
 <p><img align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=pedrcovre&show_icons=true&theme=react&locale=en&layout=compact&hide_border=true" alt="pedrcovre2" /></p>
 
