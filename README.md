@@ -8,6 +8,14 @@
 
 ###
 
+###
+
+<br clear="both">
+
+<div align="center">
+  <img height="300" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXFkMXhjajdieGZ3YnRkMDhrMGpxdjBobnRpM2IyeXpkOTVreGc1OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JfLL4CPx0NtvnmkKtR/giphy.gif"  />
+</div>
+
 <br clear="both">
 
 <div align="center">
@@ -30,13 +38,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="50" alt="figma logo"  />
 </div>
 
-###
 
-<br clear="both">
-
-<div align="center">
-  <img height="300" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXFkMXhjajdieGZ3YnRkMDhrMGpxdjBobnRpM2IyeXpkOTVreGc1OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JfLL4CPx0NtvnmkKtR/giphy.gif"  />
-</div>
 
 ###
 
