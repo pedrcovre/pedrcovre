@@ -1,0 +1,37 @@
+name: Generate Pacman Animation
+
+on:
+  # Roda a cada 12 horas (00:00 e 12:00 UTC)
+  schedule:
+    - cron: "0 */12 * * *"
+
+  # Permite que você rode manualmente pela aba "Actions"
+  workflow_dispatch:
+
+  # Roda também quando você faz um push para a branch main
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      # Passo 1: Gera o arquivo SVG do Pac-Man
+      - name: Generate pacman-contribution-graph.svg
+        uses: abozanona/pacman-contribution-graph@main
+        with:
+          github_user_name: ${{ github.repository_owner }}
+
+      # Passo 2: Envia o arquivo gerado para uma branch chamada "output"
+      - name: Push pacman-contribution-graph.svg to the output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
