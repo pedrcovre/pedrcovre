@@ -48,12 +48,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pedrcovre/pedrcovre/output/pacman-contribution-graph-dark.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/pedrcovre/pedrcovre/output/pacman-contribution-graph.svg">
-</picture>
-
-###
