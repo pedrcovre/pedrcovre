@@ -37,13 +37,7 @@
 
 ###
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pedrcovre&locale=en&hide_title=false&layout=compact&card_width=200&langs_count=10&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXFkMXhjajdieGZ3YnRkMDhrMGpxdjBobnRpM2IyeXpkOTVreGc1OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JfLL4CPx0NtvnmkKtR/giphy.gif"  />
+<img align="center" height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXFkMXhjajdieGZ3YnRkMDhrMGpxdjBobnRpM2IyeXpkOTVreGc1OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JfLL4CPx0NtvnmkKtR/giphy.gif"  />
 
 ###
 
