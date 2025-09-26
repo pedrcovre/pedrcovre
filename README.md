@@ -1,7 +1,7 @@
 
 
 <h2>Full Stack Developer<h2/>
-  <img align="right" height="190em" src="https://github-readme-stats.vercel.app/api/top-langs?username=pedrcovre&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&order=2" alt="languages graph"/>
+  <img align="right" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs?username=pedrcovre&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&order=2" alt="languages graph"/>
 
 <br>
 
